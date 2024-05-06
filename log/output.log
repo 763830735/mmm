@@ -1,0 +1,155 @@
+23:44:12.384 [restartedMain] INFO  c.example.mmm.util.AutoShutDownUtil - 设置自动关机时间:[]
+
+02:10:28.471 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Starting MmmApplicationKt using Java 21.0.1 with PID 19068 (D:\event\java\mmm\target\classes started by ysmdz in D:\event\java\mmm)
+02:10:28.473 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - No active profile set, falling back to 1 default profile: "default"
+02:10:28.582 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\opencv\4.9.0-1.5.10\opencv-4.9.0-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/opencv/4.9.0-1.5.10/javacpp.jar
+02:10:28.582 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\openblas\0.3.26-1.5.10\openblas-0.3.26-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/openblas/0.3.26-1.5.10/javacpp.jar
+02:10:28.582 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:10:28.582 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:10:30.504 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 14569 (http)
+02:10:30.583 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1993 ms
+02:11:01.829 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Starting MmmApplicationKt using Java 21.0.1 with PID 7188 (D:\event\java\mmm\target\classes started by ysmdz in D:\event\java\mmm)
+02:11:01.832 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - No active profile set, falling back to 1 default profile: "default"
+02:11:01.874 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\opencv\4.9.0-1.5.10\opencv-4.9.0-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/opencv/4.9.0-1.5.10/javacpp.jar
+02:11:01.874 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\openblas\0.3.26-1.5.10\openblas-0.3.26-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/openblas/0.3.26-1.5.10/javacpp.jar
+02:11:01.874 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:11:01.874 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:11:02.540 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 14569 (http)
+02:11:02.607 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 731 ms
+02:11:03.590 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+02:11:03.632 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 14569 (http) with context path ''
+02:11:03.637 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Started MmmApplicationKt in 2.122 seconds (process running for 2.573)
+02:13:07.331 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Starting MmmApplicationKt using Java 21.0.1 with PID 1456 (D:\event\java\mmm\target\classes started by ysmdz in D:\event\java\mmm)
+02:13:07.334 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - No active profile set, falling back to 1 default profile: "default"
+02:13:07.376 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\opencv\4.9.0-1.5.10\opencv-4.9.0-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/opencv/4.9.0-1.5.10/javacpp.jar
+02:13:07.416 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\openblas\0.3.26-1.5.10\openblas-0.3.26-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/openblas/0.3.26-1.5.10/javacpp.jar
+02:13:07.416 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:13:07.416 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:13:08.144 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 14569 (http)
+02:13:08.184 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 768 ms
+02:13:08.447 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+02:13:08.472 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 14569 (http) with context path ''
+02:13:08.477 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Started MmmApplicationKt in 1.479 seconds (process running for 1.913)
+02:13:52.840 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+02:13:52.841 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+02:13:52.968 [http-nio-14569-exec-1] INFO  com.example.mmm.MmmApplication - welcome
+02:16:57.162 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Starting MmmApplicationKt using Java 21.0.1 with PID 15276 (D:\event\java\mmm\target\classes started by ysmdz in D:\event\java\mmm)
+02:16:57.164 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - No active profile set, falling back to 1 default profile: "default"
+02:16:57.209 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\opencv\4.9.0-1.5.10\opencv-4.9.0-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/opencv/4.9.0-1.5.10/javacpp.jar
+02:16:57.209 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\openblas\0.3.26-1.5.10\openblas-0.3.26-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/openblas/0.3.26-1.5.10/javacpp.jar
+02:16:57.209 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:16:57.209 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:16:57.955 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 14569 (http)
+02:16:57.997 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 788 ms
+02:16:58.277 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+02:16:58.299 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 14569 (http) with context path ''
+02:16:58.305 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Started MmmApplicationKt in 1.557 seconds (process running for 2.012)
+02:18:15.119 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+02:18:15.121 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+02:18:15.216 [http-nio-14569-exec-1] INFO  com.example.mmm.MmmApplication - welcome
+02:19:36.893 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Starting MmmApplicationKt using Java 21.0.1 with PID 21384 (D:\event\java\mmm\target\classes started by ysmdz in D:\event\java\mmm)
+02:19:36.895 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - No active profile set, falling back to 1 default profile: "default"
+02:19:36.948 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\opencv\4.9.0-1.5.10\opencv-4.9.0-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/opencv/4.9.0-1.5.10/javacpp.jar
+02:19:36.949 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\openblas\0.3.26-1.5.10\openblas-0.3.26-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/openblas/0.3.26-1.5.10/javacpp.jar
+02:19:36.949 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+02:19:36.949 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+02:19:37.815 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 14569 (http)
+02:19:37.860 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 911 ms
+02:19:38.168 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+02:19:38.191 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 14569 (http) with context path ''
+02:19:38.197 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Started MmmApplicationKt in 1.741 seconds (process running for 2.44)
+02:20:40.024 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+02:20:40.025 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+02:20:40.112 [http-nio-14569-exec-1] INFO  com.example.mmm.MmmApplication - welcome
+02:46:17.580 [http-nio-14569-exec-3] INFO  com.example.mmm.MmmApplication - showInfo {str=asd}
+02:54:15.177 [http-nio-14569-exec-5] WARN  o.d.windows.perfmon.PerfmonDisabled - Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+02:56:41.547 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+02:56:41.725 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Starting MmmApplicationKt using Java 21.0.1 with PID 21384 (D:\event\java\mmm\target\classes started by ysmdz in D:\event\java\mmm)
+02:56:41.726 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - No active profile set, falling back to 1 default profile: "default"
+02:56:41.926 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 14569 (http)
+02:56:41.937 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 208 ms
+02:56:41.963 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'messageController': Unsatisfied dependency expressed through field 'videoService': Error creating bean with name 'videoService' defined in file [D:\event\java\mmm\target\classes\com\example\mmm\service\VideoService.class]: Native Library D:\jdk21\bin\opencv_java490.dll already loaded in another classloader
+02:56:41.968 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+02:56:41.994 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'messageController': Unsatisfied dependency expressed through field 'videoService': Error creating bean with name 'videoService' defined in file [D:\event\java\mmm\target\classes\com\example\mmm\service\VideoService.class]: Native Library D:\jdk21\bin\opencv_java490.dll already loaded in another classloader
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:787)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:767)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:145)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:508)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at com.example.mmm.MmmApplicationKt.main(MmmApplication.kt:48)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'videoService' defined in file [D:\event\java\mmm\target\classes\com\example\mmm\service\VideoService.class]: Native Library D:\jdk21\bin\opencv_java490.dll already loaded in another classloader
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1317)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:562)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1443)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1353)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:784)
+	... 23 common frames omitted
+Caused by: java.lang.UnsatisfiedLinkError: Native Library D:\jdk21\bin\opencv_java490.dll already loaded in another classloader
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:167)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:139)
+	at java.base/jdk.internal.loader.NativeLibraries.findFromPaths(NativeLibraries.java:259)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:249)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2451)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:916)
+	at java.base/java.lang.System.loadLibrary(System.java:2059)
+	at com.example.mmm.service.VideoService.<clinit>(VideoService.java:19)
+	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)
+	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160)
+	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300)
+	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:103)
+	at java.base/jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:200)
+	at java.base/java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:195)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:88)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1311)
+	... 34 common frames omitted
+03:03:09.876 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Starting MmmApplicationKt using Java 21.0.1 with PID 22232 (D:\event\java\mmm\target\classes started by ysmdz in D:\event\java\mmm)
+03:03:09.878 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - No active profile set, falling back to 1 default profile: "default"
+03:03:09.929 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\opencv\4.9.0-1.5.10\opencv-4.9.0-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/opencv/4.9.0-1.5.10/javacpp.jar
+03:03:09.929 [restartedMain] INFO  o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in D:\apache-maven-3.9.5\rep\org\bytedeco\openblas\0.3.26-1.5.10\openblas-0.3.26-1.5.10.jar referenced one or more files that do not exist: file:/D:/apache-maven-3.9.5/rep/org/bytedeco/openblas/0.3.26-1.5.10/javacpp.jar
+03:03:09.929 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+03:03:09.929 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+03:03:10.730 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 14569 (http)
+03:03:10.771 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 841 ms
+03:03:11.070 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+03:03:11.100 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 14569 (http) with context path ''
+03:03:11.106 [restartedMain] INFO  com.example.mmm.MmmApplicationKt - Started MmmApplicationKt in 1.626 seconds (process running for 2.151)
+03:03:18.310 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+03:03:18.311 [http-nio-14569-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+03:13:41.236 [http-nio-14569-exec-8] INFO  com.example.mmm.MmmApplication - welcome
+08:38:40.971 [main] INFO  com.example.mmm.MmmApplicationTests - Starting MmmApplicationTests using Java 21.0.1 with PID 14328 (started by ysmdz in D:\event\java\mmm)
+08:38:40.980 [main] INFO  com.example.mmm.MmmApplicationTests - No active profile set, falling back to 1 default profile: "default"
+08:38:43.027 [main] INFO  com.example.mmm.MmmApplicationTests - Started MmmApplicationTests in 3.117 seconds (process running for 4.658)
+11:30:38.583 [main] INFO  com.example.mmm.MmmApplicationTests - Starting MmmApplicationTests using Java 21.0.1 with PID 7056 (started by ysmdz in D:\event\java\mmm)
+11:30:38.595 [main] INFO  com.example.mmm.MmmApplicationTests - No active profile set, falling back to 1 default profile: "default"
+11:30:40.825 [main] INFO  com.example.mmm.MmmApplicationTests - Started MmmApplicationTests in 3.016 seconds (process running for 4.704)
