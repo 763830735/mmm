@@ -6,6 +6,7 @@
 
 使用流程:
 
+
 0. 下载jdk21,并且将opencv中的opencv_java490.dll放在jdk/bin中,之后将jdk复制到mmm-package中
 0. 复制mmm-package文件夹到多媒体教室电脑上
 0. 在room-name.txt中填写教室的名称
