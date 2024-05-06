@@ -5,6 +5,7 @@
 当运行该项目后,多媒体教师电脑会在后台运行一个web服务,并且开机自启,客户端可以搜索内网中所有ip的14569端口,以发现服务器.
 
 使用流程:
+
 0. 下载jdk21,并且将opencv中的opencv_java490.dll放在jdk/bin中,之后将jdk复制到mmm-package中
 0. 复制mmm-package文件夹到多媒体教室电脑上
 0. 在room-name.txt中填写教室的名称
