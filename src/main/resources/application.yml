@@ -1,0 +1,27 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 500MB
+      max-request-size: 500MB
+  application:
+    name:
+      mmm
+password:
+  cbbb530bea0f8de86111bf81386e2eb23806db90da00331b164dc219b4425c29
+keep_time:
+  600
+server:
+  port: 14569
+mmm-version:
+  20240408-6
+#5 已发布
+#修改内容:开机自启bug修复
+#调用摄像头拍摄照片
+#枚举下课时间,自动关机
+#将version路径改为不需要登录
+#传输文件至项目根目录
+#todo 自动开机
+
+#6 未发布
+#新增查看文件内容接口
+#自动关机时间修改
