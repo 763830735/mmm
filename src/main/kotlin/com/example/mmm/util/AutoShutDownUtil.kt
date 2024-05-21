@@ -7,6 +7,8 @@ import java.io.FileReader
 import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.LocalTime
+import java.time.format.DateTimeFormatter
+import java.time.format.FormatStyle
 import java.util.*
 
 
@@ -19,6 +21,7 @@ class AutoShutDownUtil {
     companion object{
         class DoSomething: TimerTask() {
             override fun run() {
+                logger.info("正在执行自动关机")
                 GuiUtil.showCancelDialog()
             }
         }

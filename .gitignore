@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+mmm-package/jdk-21.0.2/
 
 ### STS ###
 .apt_generated

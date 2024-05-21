@@ -1,6 +1,8 @@
 package com.example.mmm.util
 
 import org.slf4j.LoggerFactory
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
 import java.util.*
 import javax.swing.JFrame
 import javax.swing.JOptionPane
@@ -24,7 +26,6 @@ class GuiUtil {
         }
 
         fun showCancelDialog() {
-            logger.info("${Date()},执行关机任务")
             CMDUtil.run("shutdown -s -t 60")
             val jFrame = JFrame()
             jFrame.setAlwaysOnTop(true)

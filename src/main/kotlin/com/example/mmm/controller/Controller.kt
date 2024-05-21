@@ -62,6 +62,7 @@ class MessageController {
     fun shutdown(@RequestBody body: Map<String,String>):String{
         var time: String? = body["time"]
         time=if (time.isNullOrBlank()) "60" else time
+        logger.info("${time}s远程关机")
         return CMDUtil.run("shutdown -s -t $time")
     }
 
@@ -70,6 +71,7 @@ class MessageController {
      */
     @RequestMapping("/shutdown-cancel")
     fun shutdownCancel():String{
+        logger.info("取消远程关机")
         return CMDUtil.run("shutdown -a")
     }
     /**
@@ -80,8 +82,10 @@ class MessageController {
         val command: String? = body["command"]
         return if (command==null)
             "请输入指令"
-        else
+        else{
+            logger.info("运行cmd命令:$command")
             CMDUtil.run(command)
+        }
     }
     /**
      * 发现路径,用于客户端寻找活跃的服务器
@@ -143,6 +147,7 @@ class MessageController {
      */
     @RequestMapping("/restartPC")
     fun restartPC(){
+        logger.info("电脑远程重启")
         CMDUtil.run("shutdown /r /t 0")
     }
 
