@@ -16,4 +16,4 @@ rem echo %combinedPath%
 
 set combinedPath=.\jdk-21.0.2\bin
 
-START "mmm" "%combinedPath%\javaw" -jar "%registryValue%\mmm-0.0.1-SNAPSHOT-6.jar"
+START "mmm" "%combinedPath%\javaw" -jar "%registryValue%\mmm-0.0.1-SNAPSHOT-7.jar"

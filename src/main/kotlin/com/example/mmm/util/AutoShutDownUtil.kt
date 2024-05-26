@@ -62,7 +62,7 @@ class AutoShutDownUtil {
                 if(Date().after(Date.from(dateTime.atZone(java.time.ZoneId.systemDefault()).toInstant())))
                     continue
                 timer.schedule(
-                    DoSomething(), Date.from(dateTime.atZone(java.time.ZoneId.systemDefault()).toInstant()),86400000L
+                    DoSomething(), Date.from(dateTime.atZone(java.time.ZoneId.systemDefault()).toInstant())
                 )
             }
         }
